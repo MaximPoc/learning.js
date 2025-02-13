@@ -50,7 +50,7 @@
 
 // Поменять тип данных (string🡪number, number🡪string)
 // Пр. 
-// Let a =5;
+// let a = 5;
 // console.log(typeof a);
 // a = String(a);
 // console.log(typeof a);
